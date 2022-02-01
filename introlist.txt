@@ -6,3 +6,5 @@ banana
 carrots
 cereal
 ant
+cucumbers
+raddishes
